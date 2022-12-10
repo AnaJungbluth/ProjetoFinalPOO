@@ -1,0 +1,78 @@
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Cadastro.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Capa.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Login.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuCadastro.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuGerente.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Properties.Resources.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.ServicoIAR.resources
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll.config
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Domain.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Domain.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Persistece.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll.config
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Domain.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Domain.pdb
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\bin\Debug\net5.0-windows\Persistece.pdb
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Cadastro.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Capa.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Login.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuCadastro.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuGerente.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Properties.Resources.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.ServicoIAR.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FuncionarioIAR.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.SobreEmpresa.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.Contato.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuServico.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.ServicoFuncionario.resources
+C:\ProjetoFinal\ProjetoFinal\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.MenuLogin.resources

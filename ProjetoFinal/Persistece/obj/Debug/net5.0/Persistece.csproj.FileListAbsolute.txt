@@ -1,0 +1,30 @@
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.deps.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\ref\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Domain.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Domain.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.AssemblyReference.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.AssemblyInfoInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.AssemblyInfo.cs
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.CoreCompileInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.CopyComplete
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\ref\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.pdb
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.deps.json
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\ref\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Persistece.pdb
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Domain.dll
+C:\ProjetoFinal\ProjetoFinal\Persistece\bin\Debug\net5.0\Domain.pdb
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.AssemblyReference.cache
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.AssemblyInfoInputs.cache
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.AssemblyInfo.cs
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.CoreCompileInputs.cache
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.csproj.CopyComplete
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\ref\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\Persistece\obj\Debug\net5.0\Persistece.pdb

@@ -1,0 +1,88 @@
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.exe
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll.config
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.deps.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.dev.json
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ref\ProjetoFinal.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Domain.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Persistece.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Domain.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Persistece.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfo.cs
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CopyComplete
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ref\ProjetoFinal.dll
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.pdb
+C:\Users\anaju\OneDrive\Área de Trabalho\FACULDADE\3 SEMESTRE\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.genruntimeconfig.cache
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.exe
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll.config
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.deps.json
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.json
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.runtimeconfig.dev.json
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ref\ProjetoFinal.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\ProjetoFinal.pdb
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Domain.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Persistece.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Domain.pdb
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\bin\Debug\net5.0\Persistece.pdb
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.AssemblyInfo.cs
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.csproj.CopyComplete
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ref\ProjetoFinal.dll
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.pdb
+C:\ProjetoFinal\ProjetoFinal\ProjetoFinal\obj\Debug\net5.0\ProjetoFinal.genruntimeconfig.cache
